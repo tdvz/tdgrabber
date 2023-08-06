@@ -18,6 +18,11 @@
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
+<p align= "center">
+   <h2>
+      The Official Repo, Blank-c/Blank-Grabber, is no longer being maintained. This is the new officially maintained repository and the original will no longer recieve updates.
+   </h2>
+</p>
 
 ## Table of Contents
 
