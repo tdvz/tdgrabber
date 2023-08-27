@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://raw.githubusercontent.com/f4kedre4lity/Blank-Grabber/main/.github/workflows/image.png">
+   <img src="https://raw.githubusercontent.com/f4kedre4lity/Blank-Grabber/main/.github/workflows/image.png">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/f4kedre4lity/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/f4kedre4lity/Blank-Grabber">
@@ -18,9 +18,9 @@
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
-   <h2>
-      The Official Repo, Blank-c/Blank-Grabber, is no longer being maintained. This is the new officially maintained repository and the original will no longer recieve updates.
-   </h2>
+   <h3>
+      This is the new officially maintained repository and the original will no longer recieve updates.
+   </h3>
 
 ## Table of Contents
 
@@ -30,6 +30,7 @@
 - [Requirements](#requirements)
 - [How to Build?](#how-to-build)
 - [Support the Project](#support-the-project)
+- [Join Our Telegram](https://t.me/BlankGrabber)
 
 ## Download
 
