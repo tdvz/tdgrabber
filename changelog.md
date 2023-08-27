@@ -1,6 +1,10 @@
 # Changelog
+### 27/08/2023
+* Fixed Battle.Net not working for some users.
+* Update readme.md to reflect new Telegram URL (https://t.me/BlankGrabber)
+
 ### 08/08/2023
-* Added Battle.Net session stealer
+* Added Battle.Net session stealer.
 
 ### 02/08/2023
 * Now prompts the user whether to run the bound file in startup or not.
