@@ -1,27 +1,3 @@
-<h1 align="center">
-   Blank Grabber
-</h1>
-<p align= "center">
-   <kbd>
-   <img src="https://raw.githubusercontent.com/f4kedre4lity/Blank-Grabber/main/.github/workflows/image.png">
-   </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/f4kedre4lity/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/f4kedre4lity/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/f4kedre4lity/Blank-Grabber">
-   <br>
-   <img src="https://img.shields.io/github/last-commit/f4kedre4lity/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/f4kedre4lity/Blank-Grabber">
-   <br>
-   <img src="https://img.shields.io/github/issues/f4kedre4lity/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/f4kedre4lity/Blank-Grabber">
-   <br>
-   <br>
-   <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
-</p>
-   <h3>
-      This is the new officially maintained repository and the original will no longer recieve updates.
-   </h3>
-
 ## Table of Contents
 
 - [Download](#download)
@@ -34,7 +10,7 @@
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/f4kedre4lity/Blank-Grabber/archive/refs/heads/main.zip)
+Download is above, click "Code" then "Download as ZIP"
 
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
@@ -94,7 +70,7 @@
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
-**Supports:** *Windows 8+ (Tested on Windows 10).*
+**Supports:** *Windows 8+/Tested on 10
 
 ## Requirements
 
@@ -112,17 +88,4 @@
 5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
-[![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
-
-## Support the Project
-
-If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
-
-- **Bitcoin (BTC):**
-  - Wallet Address: bc1quyf7d2cwrd0rgtyhtjt7ermxlw4hzg8npr4yce
-
-- **Ethereum (ETH):**
-  - Wallet Address: 0x54Ab5743141c781178863e3F658d48Cb9564f520
-
-- **USDT (Tron network):**
-  - Wallet Address: TJsixSZ9LDpn3ZNF8pEKmfNaNkMTrK1hWJ
+7. DM me on discord (@tdvz) for help
